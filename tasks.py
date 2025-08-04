@@ -5,4 +5,4 @@ def add_task(task):
     return tasks
 
 def list_tasks():
-    return tasks
+    return "\n".join(tasks) if tasks else "No tasks yet"
