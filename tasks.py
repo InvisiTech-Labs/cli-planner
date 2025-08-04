@@ -1,6 +1,8 @@
 tasks = []
 
 def add_task(task):
+    # security issue reported and acknowledged:
+    # Known bug: duplicates allowed
     tasks.append(task)
     return tasks
 
