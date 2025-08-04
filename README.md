@@ -1,7 +1,7 @@
 # CLI-planner
 
-[![Version](https://img.shields.io/badge/version-0.1.0-blue.svg)](https://github.com/your-org/your-repo/releases)
-[![Build](https://img.shields.io/github/actions/workflow/status/your-org/your-repo/ci.yml?branch=main)](https://github.com/your-org/your-repo/actions)
+[![Version](https://img.shields.io/badge/version-0.1.0-blue.svg)](https://github.com/InvisiTech-Labs/cli-planner)
+[![Build](https://img.shields.io/github/actions/workflow/status/your-org/your-repo/ci.yml?branch=main)](https://github.com/InvisiTech-Labs/cli-planner)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 ---
