@@ -1,5 +1,11 @@
 # CLI-planner
 
+[![Version](https://img.shields.io/badge/version-0.1.0-blue.svg)](https://github.com/your-org/your-repo/releases)
+[![Build](https://img.shields.io/github/actions/workflow/status/your-org/your-repo/ci.yml?branch=main)](https://github.com/your-org/your-repo/actions)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+
+---
+
 Basic CLI tool for internal use.
 
 i.e. Minimal task manager CLI.
@@ -12,3 +18,5 @@ i.e. Minimal task manager CLI.
 
 # Notes
 Internal dev preview only
+
+# 
