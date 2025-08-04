@@ -9,3 +9,6 @@ i.e. Minimal task manager CLI.
 ```bash 
     python3 app.py
 ```
+
+# Notes
+Internal dev preview only
