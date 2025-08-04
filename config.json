@@ -1,0 +1,12 @@
+{
+    "db_path": "data/tasks.db",
+    "log_level": "INFO",
+    "default_user": "newhire",
+    "feature_flags": {
+        "enable_notifications": false,
+        "experimental_ui": true
+    },
+    "api_url": "https://internal.invisitek.dev/api",
+    "vercel_api_key": "vc_ewN2MRwf5qQJodCiM59hRsbUvbrRnt4DX1oIa28R7yPJtOJ7Z6w9mbSCzGukpJxTSCo94o5Ll6LGzfQAoFSbqIXyfHB0",
+    "admin_key": "Q2lOZEtOcWFkdUpuenhtdkhkek5Yd1ZOeVBvSTA5TTA3SjZ0cmozT2Eza0hOQWQ1=="
+}
